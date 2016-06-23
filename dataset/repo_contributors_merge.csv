@@ -1,0 +1,664 @@
+author,cmt,add,del,fixes,closes,issues,pr,comments,files
+Aarni Koskela,1,4,0,0,0,0,1,1,1
+Aaron Dixon,1,96,75,1,0,1,1,1,0
+Aaron Mildenstein,1,4,4,0,0,1,2,9,3
+acerb,1,8,14,0,0,0,2,4,0
+Adam,2,1,2,0,0,0,2,0,0
+Adam Menges,1,8,8,0,0,0,1,2,1
+Adam Mollenkopf,1,1,1,0,0,0,1,0,1
+adavis,2,64,6,0,0,1,2,3,0
+Adrien Grand,885,127794,161846,103,0,193,447,3464,1514
+Akshay Kapoor,1,1,1,0,0,0,1,1,1
+Alban Perillat-Merceroz,1,1,1,0,0,1,1,1,1
+Andrew Selden,31,10692,1888,4,0,28,94,78,9
+Alex,1,1,1,0,0,0,1,1,1
+Alexander,1,1,1,1,0,0,1,0,1
+Alexander Clare,2,8,3,0,0,1,1,2,1
+Alexander Clausen,1,2,2,0,0,0,1,1,0
+Alexander Kahn,1,3,0,0,0,1,1,3,0
+Alexander Kazakov,11,399,238,0,0,0,11,10,35
+Alexander Pepper,1,6,5,0,0,0,1,2,1
+Alexander Reelsen,323,53082,22044,9,0,81,248,1236,268
+Alex Brasetvik,2,42,1,0,0,3,4,13,1
+Alex Chan,1,8,8,0,0,0,1,1,4
+Alex Chow,1,52,18,0,1,1,4,7,7
+Alex Ksikes,80,23028,14449,14,0,20,81,166,54
+Alex Lambert,1,1,0,0,0,5,1,8,0
+Alex Marandon,1,25,3,0,0,2,1,6,0
+Alfredo Serafini,1,1,1,0,0,1,1,5,0
+alheim,1,22,2,0,0,0,0,1,0
+Ali Beyad,49,15173,10635,4,0,19,42,160,300
+Ali Bozorgkhan,1,1,1,0,0,0,1,1,1
+Al Lefebvre,1,2,0,0,0,1,1,0,1
+Aman Gupta,1,2,2,0,0,2,1,0,0
+ananich,1,9,0,0,0,0,1,1,0
+Andreas Kohn,12,60,39,0,0,6,11,24,3
+André Carvalho,14,181,42,0,0,2,7,39,11
+André Hänsel,1,15,0,0,0,1,1,8,1
+Andrei Kolosok,2,2,2,0,0,0,2,2,0
+Andrej Kazakov,3,423,46,0,0,8,14,52,34
+Andrew Cholakian,1,17,5,0,0,1,2,13,1
+Andrew Gross,1,2,2,0,0,1,0,2,0
+Andrew O'Brien,3,4,4,0,0,0,3,1,1
+Andrew Ochsner,2,5,1,0,0,3,2,4,0
+Drew Raines,92,88498,85847,2,0,80,34,266,16
+Andrew Williams,1,5,4,0,0,0,1,3,1
+Andrey Fadeyev,3,38,12,0,0,0,2,8,2
+Andrey Ryaguzov,1,20,10,0,0,3,1,3,1
+Andrii Gakhov,2,3,3,1,0,5,2,10,0
+Andrius Juozapaitis,2,6,4,0,0,0,1,0,0
+Andrzej Wisłowski,3,3,3,1,0,1,5,8,2
+Andy Goldstein,2,14,1,0,0,0,1,4,1
+ansj,1,1,0,0,0,1,1,1,1
+Antoine Rey,1,1,1,0,0,1,1,2,0
+Antonio Bonuccelli,3,24,1,0,0,17,5,21,0
+Areek Zillur,83,24008,14006,11,0,9,53,189,205
+Artur Cygan,1,13,13,0,0,0,1,1,0
+Ashraf Sarhan,1,2,2,0,0,0,1,1,0
+Asimov4,2,6,6,0,0,4,2,8,2
+Ask Bjørn Hansen,1,1,1,0,0,6,1,10,0
+Aske Hansen,1,3,0,0,0,0,1,1,0
+astefan,2,6,1,0,0,13,2,11,2
+Audrey,2,4,4,0,0,0,2,1,1
+Aurelien Requiem,5,17,13,0,0,0,1,1,0
+Austin McKinley,2,5,0,1,0,3,3,3,0
+Ayumi Yu,1,1,1,1,0,0,0,0,0
+Ayush,1,1,1,0,0,1,3,4,1
+B1nj0y,1,1,1,0,0,0,1,0,1
+babeya,1,2,2,0,0,0,1,0,0
+baldurh,1,1,1,0,0,0,1,0,1
+barbasa,1,1,1,0,0,0,1,1,1
+barsk,2,36,8,0,0,2,1,2,0
+bbgordonn,2,262,6,0,0,2,1,13,0
+belevian,2,296,0,0,0,2,4,2,0
+Benjamin Devèze,43,3419,481,6,0,20,94,94,1
+Benjamin Vetter,2,21,16,0,0,3,1,11,5
+Ben McCann,3,9,3,0,0,9,4,13,2
+Benoit Delbosc,2,18,12,0,0,0,2,1,1
+Benoit Sigoure,2,17,20,1,0,2,3,8,0
+Benoss,1,5,5,0,0,0,1,1,0
+Ben Tse,1,1,1,1,0,0,1,0,1
+Bernhard K. Weisshuhn,1,8,1,0,0,0,1,5,0
+bharvi,2,2,2,0,0,0,0,1,2
+Bill Hwang,31,951,141,1,0,3,36,126,0
+Binh Ly,5,1095,7,0,0,14,4,9,2
+bitsofinfo,1,574,485,0,0,1,0,3,0
+Björn Ali Göransson,1,44,4,0,0,1,0,3,0
+blackorzar,1,4,0,0,0,0,2,2,0
+Blake Niemyjski,1,1,1,0,0,3,1,16,0
+Blake Smith,1,2,2,0,0,0,1,0,0
+Boaz Leskes,665,76705,50091,34,0,214,556,4248,626
+bloublou,1,1,1,0,0,0,1,3,1
+Bobby T,1,3,0,0,0,0,1,0,0
+Brad Fritz,1,2,2,0,0,0,1,0,1
+Brady Vidovic,1,1,1,0,0,6,1,15,1
+Brett Dargan,1,25,6,0,0,0,1,2,0
+Brian Altenhofel,1,2,2,0,0,0,1,2,0
+Brian Kim,1,5,5,0,0,0,1,0,1
+Brian Murphy,38,5864,1703,0,0,6,22,56,3
+Britta Weber,390,55746,15251,48,0,79,179,545,179
+Bruno Renié,3,67,34,0,0,0,0,0,0
+Brusic,11,352,63,1,0,24,16,236,4
+caldwecr,2,6,6,0,0,0,2,1,2
+Camilo Diaz Repka,5,513,234,0,0,2,12,40,160
+Carol Willing,1,1,1,0,0,0,1,0,1
+Carsten Brandt,2,2,2,1,0,2,2,3,2
+cccabot,1,4,4,0,0,0,1,1,0
+Cédric HOURCADE,3,886,102,0,0,5,4,21,0
+cgp,1,1,1,0,0,0,1,0,0
+Chelsea  Lura,1,1,1,0,0,0,1,1,1
+chenxiang,1,2,2,0,0,0,1,1,1
+Florian Schilling,23,11027,3512,1,2,24,48,128,5
+Chris Allen,1,6,0,0,0,3,1,4,0
+Chris Earle,44,3399,1500,2,0,198,64,452,94
+Chris Male,14,7135,1895,0,0,8,7,15,0
+Chris Mattmann,2,55,55,1,0,0,2,6,2
+Chris Moultrie,1,18,1,0,0,2,2,9,1
+Chris Roche,1,2,2,0,0,0,1,0,0
+Chris Simpson,1,2,2,0,0,1,1,2,0
+Christian Haudum,1,105,1,0,0,0,3,3,5
+Christian Rohling,1,2,0,0,0,0,1,2,0
+Christian Verkerk,2,9,7,0,0,0,3,1,2
+Christian Wolfe,1,31,31,0,0,0,1,1,3
+Christine,1,4,4,0,0,0,1,0,0
+Christoph Büscher,461,43415,28082,22,0,36,169,697,417
+Christopher Taylor,1,1,1,0,0,0,1,1,1
+Christoph Frick,1,1,1,0,0,0,1,1,1
+Christoph Kempen,1,2,1,0,0,0,1,3,0
+Christoph Wurm,3,64,4,0,0,5,1,1,4
+Chris Zelenak,1,1,1,0,0,1,0,2,0
+Clément Salaün,1,1,1,0,0,2,2,0,0
+Clément Tourrière,2,45,5,0,0,4,3,3,2
+Clinton Gormley,870,231105,30591,22,0,561,58,8254,558
+cmpich,2,3,3,0,0,0,2,0,1
+Colin Goodheart-Smithe,439,136357,84476,72,0,174,428,1632,903
+Conrad Pankoff,1,9,9,0,0,0,1,0,2
+constantijn,1,8,1,0,0,1,2,4,0
+corochoone,2,3,4,0,0,0,2,0,2
+Cory G Watson,1,3,0,0,0,0,1,0,0
+Costin Leau,32,4079,1576,6,0,27,9,116,15
+craigwi,1,774,171,0,0,2,1,20,13
+Cristiano Fontes,3,147,63,0,0,1,6,30,1
+Damien Alexandre,2,11,9,0,0,3,3,16,1
+Dan Everton,2,9,4,0,0,4,2,13,1
+Daniel Mitterdorfer,69,6900,3615,4,0,15,36,274,316
+Daniel Muller,1,1,1,0,0,0,1,0,0
+Daniel Winterstein,2,11,1,0,0,0,2,1,0
+Daniil Penkin,1,10,1,0,0,0,1,6,1
+Danilo Vaz,1,10,10,0,0,0,1,0,6
+Dan Jasek,1,40,22,1,0,3,2,2,7
+Dan Tuffery,2,2,2,0,0,0,3,2,1
+Dariusz Gertych,1,86,1,0,0,0,0,0,0
+darkwarriors,1,4,4,1,0,0,1,2,1
+Dave Brosius,1,1,1,1,0,1,2,2,0
+Dave Parfitt,7,278,9,0,0,0,5,16,7
+David Haney,2,10,2,0,0,0,2,1,2
+David Pilato,1182,119173,76326,38,0,179,244,2250,546
+David Pursehouse,3,37,22,0,0,1,5,26,4
+David Roberts,1,1,1,0,0,1,1,1,1
+David Smiley,1,105,54,0,0,2,2,15,0
+David Tvaltchrelidze,1,1,1,0,0,1,1,3,1
+David Wittman,1,3,3,0,0,0,1,0,1
+Dawid Weiss,7,767,608,0,0,1,8,19,2
+debadair,6,761,63,0,0,0,3,8,10
+DeDe Morton,8,2185,2085,0,0,1,4,3,7
+Derek Haynes,1,2,0,0,0,0,1,2,0
+Derek McNeil,1,71,0,0,0,0,1,1,0
+Devi,1,1,1,1,0,4,1,2,1
+Devin Chollak,2,4,4,0,0,0,2,1,0
+Diego Ongaro,1,14,0,0,0,0,2,4,0
+Dimitrios Liappis,4,8,8,1,0,1,1,8,2
+Dmitrii Izgurskii,1,1,1,0,0,0,1,1,1
+Dmitriy Khvatov,1,1,1,0,0,0,2,1,1
+Dmitry Polushkin,1,3,0,0,0,0,1,4,0
+Dmitry Zhlobo,1,6,1,0,0,0,0,0,0
+Dominik Stadler,2,19,1,0,0,3,3,9,1
+Dominik Surowiecki,1,2,2,0,0,0,1,1,0
+Dongjoon Hyun,9,275,275,0,0,0,8,8,169
+dpen2000,1,1,1,0,0,0,1,0,0
+Dridi Boukelmoune,1,2,2,0,0,0,1,2,0
+dtpeacock,1,1,1,0,0,0,1,0,1
+Duncan Angus Wilkie,1,1,1,0,0,0,1,2,0
+Dustin Shiver,1,8,4,0,0,0,1,1,1
+dw,2,6,6,0,0,1,3,6,0
+eBuildy,2,3,3,0,0,1,2,18,1
+Eduardo Gurgel,1,2,2,0,0,0,1,1,1
+Edward Dale,2,465,71,0,0,0,1,1,0
+Edward Wang,1,1,1,0,0,0,1,1,0
+Ed Winn,1,1,1,0,0,0,1,1,1
+Eike Dehling,1,41,2,0,0,1,1,7,0
+ejain,1,1,0,0,0,9,1,19,0
+Elie A,3,10,7,0,0,2,6,10,0
+eratio08,1,2,0,0,0,0,2,3,1
+ericamick,4,5,5,0,0,0,5,0,4
+ericheiker,1,2,2,0,0,0,1,1,0
+Erick Tryzelaar,3,15,6,0,0,11,2,1,0
+Erik Ringsmuth,1,1,1,0,0,5,1,12,1
+Eugene Pirogov,1,12,13,0,0,1,2,2,1
+evanfreed,1,1,1,0,0,0,1,1,1
+EvanYellow,1,49,2,0,0,0,1,0,0
+Evgeniy Sokovikov,1,1,1,0,0,0,1,0,1
+Fabian Selles Rosa,1,51,2,0,0,0,1,3,0
+Felipe Forbeck,7,217,135,1,0,0,5,11,5
+Fitblip,1,165,4,0,0,1,1,19,1
+Florian Gilcher,3,44,25,1,0,8,4,16,0
+Florian Hopf,4,4,5,0,0,2,4,1,1
+fransflippo,1,4,4,0,0,0,1,6,1
+Frédéric Camblor,1,194,24,0,0,0,0,0,0
+Fredrik Sundberg,1,1,1,0,0,0,1,0,0
+Gabriel Moskovicz,4,83,9,0,0,16,2,41,3
+gabriel-tessier,5,7,7,2,0,0,5,1,1
+gaelL,1,1,1,1,0,0,1,0,1
+Gao Yingkai,1,4,2,0,0,0,1,0,1
+Gasol Wu,1,46,0,0,0,0,0,1,0
+Gaurav Arora,2,2,2,1,0,0,2,0,1
+Geoff Bourne,1,11,0,0,0,0,1,2,1
+Geoff Wagstaff,1,1,1,0,0,1,2,4,1
+George Chatzigeorgiou,1,3,0,0,0,0,1,0,0
+George P. Stathis,7,239,65,0,0,4,3,25,8
+gfyoung,1,22,2,0,0,0,1,9,2
+Gheorghita Catalin Bordianu,1,1,1,0,0,0,1,1,0
+girirajsharma,1,1,1,0,0,1,2,8,1
+Glen Smith,3,4,3,0,0,3,3,28,3
+Greg Marzouka,29,589,130,3,0,32,28,180,12
+Grégory Quatannens,1,4,4,0,0,0,1,0,0
+G. Richard Bellamy,1,17,17,0,0,1,1,0,4
+gseng,2,3,3,0,0,2,2,8,1
+gtt116,1,1,1,0,0,0,1,0,1
+Guillaume Dievart,1,1,1,0,0,0,1,2,0
+Guillaume Hiron,1,22,9,0,0,3,1,12,0
+Guillaume Nodet,1,46,38,0,0,0,1,1,0
+Hakan Özler,2,5,0,0,0,0,2,3,0
+Hang Su,1,1,1,1,0,0,1,1,0
+hanneskaeufler,1,1,1,0,0,0,1,2,1
+Hannes Korte,1,6,6,0,0,3,1,3,5
+Harish Kayarohanam,2,20,2,0,0,2,4,43,1
+Helton Alponti,1,27,16,0,0,2,3,1,0
+Henac,2,142,9,0,0,0,0,0,0
+Hendrik Saly,3,9,3,0,0,10,20,42,2
+Henrik Lindström,2,10,0,0,0,1,5,8,0
+Henrik Nordvik,2,4,3,0,0,5,2,6,1
+HenrikOssipoff,1,1,1,0,0,3,1,5,1
+Herbert Fischer,1,5,2,0,0,1,1,12,2
+Hiroyuki Ikezoe,1,2,1,0,0,0,1,0,0
+Holden Karau,5,45,29,0,0,2,1,5,0
+Holger Hoffstätte,11,1780,228,1,0,7,11,38,1
+Honza Král,106,3009,2129,3,0,40,26,92,2
+Hugues Malphettes,1,2,2,0,0,2,1,11,0
+hura,1,1,1,0,0,0,1,0,1
+Ian Babrou,1,42,42,0,0,33,1,113,0
+Ian Truslove,1,2,2,0,0,0,1,2,1
+Iarwa1n,1,1,1,0,0,0,1,1,1
+Ibrahim Awwal,1,1,1,0,0,0,1,2,1
+Igal,2,2,2,0,0,0,2,9,1
+Igor Motov,372,71658,18530,31,0,168,432,1532,234
+iksnalybok,2,8,8,0,0,11,3,21,0
+Ilya Nazarov,1,1,1,0,0,0,1,0,0
+Imran Azad,1,96,0,0,0,5,5,21,2
+IsaacHaze,1,11,11,0,0,1,1,2,1
+Isabel Drost-Fromm,166,16995,9459,11,0,15,56,211,274
+Israel Ekpo,1,3,3,0,0,1,1,1,1
+Israel Tsadok,3,10,4,0,0,0,4,6,1
+Itamar Syn-Hershko,8,51,37,0,0,88,32,330,3
+Iulia Pasov,2,2,1,1,0,0,2,0,1
+Ivannikov Kirill,15,242,98,2,0,5,2,17,1
+Jack Conradson,85,100950,74980,3,0,17,31,157,175
+Jacob Evans,1,1,1,0,0,1,1,4,0
+Jad Naous,1,3,3,0,0,1,1,1,0
+Jakob Reiter,1,5,5,0,0,2,1,3,1
+James Bertouch,4,101,14,0,0,0,3,20,9
+James Brook,1,684,21,0,0,3,1,15,1
+James Kerr,1,1,1,0,0,0,1,1,1
+Jamie McCarthy,1,5,6,0,0,0,1,1,1
+Jamie White,1,1,1,0,0,0,1,0,0
+Jan Fiedler,1,1,1,0,0,7,1,4,0
+Janmejay Singh,1,2,0,0,0,1,1,1,1
+Jared Carey,1,1,1,0,0,3,1,3,1
+Jason Bryan,3,4,3,0,0,5,2,8,1
+Jason O'Donnell,6,6,6,0,0,0,2,1,5
+jasonquick,1,1,1,0,0,0,1,0,1
+Jason Spafford,1,1,1,0,0,0,1,0,0
+Jason Tedor,813,36805,23093,22,0,50,280,1369,1092
+Jason Veatch,1,1,1,0,0,0,1,0,1
+javanna,982,120139,101902,72,0,250,630,4312,799
+Jay Modi,56,3661,1864,4,0,38,90,262,65
+Jayson Minard,3,75,5,0,1,54,8,170,1
+J Charitopoulos,2,2,3,0,0,0,2,1,1
+jdyer09,1,1,1,0,0,0,0,0,0
+Jeff,1,1,1,0,0,0,1,1,1
+Jeff Destine,1,2,0,0,0,0,1,1,1
+Jeff Evans,1,18,2,0,0,0,2,5,2
+Jeffrey Gerard,1,49,4,1,0,3,2,11,0
+Jeremie BORDIER,2,109,9,0,0,8,4,13,0
+Jeremy Jongsma,1,1,1,0,0,0,1,1,0
+Jérémy Lecour,1,1,1,0,0,8,1,11,0
+Jerry,1,1,1,0,0,0,0,0,0
+J Grubb,1,3,3,0,0,0,1,1,1
+jhr007,1,13,2,0,0,0,1,3,0
+jhtimmins,1,1,1,0,0,1,1,0,1
+Jihun No,2,2,2,0,0,0,3,0,2
+Jilles van Gurp,1,30,0,0,0,11,1,28,0
+Jim Ferenczi,83,7410,3541,7,0,7,40,181,241
+Jim Hooker,2,18,18,0,0,0,2,8,5
+Jimmi Dyson,1,1,0,0,0,1,1,4,1
+Jimmy Jones,1,173,168,1,0,16,2,24,20
+jmferrer,1,1,1,0,0,0,1,0,1
+Joao Duarte,2,5,6,0,0,0,2,1,1
+Jochen Schalanda,1,10,0,0,0,0,3,14,1
+Joe Hillenbrand,2,5,5,0,0,1,1,1,4
+joelbourbon,1,1,1,0,0,0,1,2,0
+Joel Taddei,1,1,1,0,0,0,1,1,1
+Joe Pollard,1,53,64,0,0,0,0,0,0
+Joey Geiger,1,1,1,0,0,0,2,1,1
+Johannes Barthelmes,1,20,12,0,0,0,1,0,1
+John Barker,1,1,0,0,0,1,1,3,1
+johnfrederik,1,1,1,0,0,0,1,1,1
+John Michael Luy,4,5,5,0,0,0,6,1,0
+Johnny Lim,2,21,23,0,0,0,3,4,3
+John Roesler,1,6,0,1,0,2,2,19,0
+Jonathan CHAMPION,1,2,2,0,0,0,1,0,0
+Jonathan Evans,2,192,1,0,0,0,0,0,0
+Jonathan R H Evans,1,1,1,0,0,0,2,4,0
+Jon Dokulil,1,22,0,0,0,0,0,0,0
+Jordan Snodgrass,1,2,0,0,0,6,1,8,0
+Jordi Boggiano,1,1,1,0,0,1,1,1,0
+Jörg Prante,11,1210,327,3,0,30,52,386,2
+Jose Diaz-Gonzalez,1,1,1,0,0,0,1,6,1
+Josef Salyer,1,8,7,0,0,0,1,1,1
+josephwolnskipn,1,59,59,0,0,0,1,0,1
+Josh Kuhn,1,1,0,0,0,0,1,1,1
+Julien Pivotto,1,17,0,0,0,0,3,5,0
+Julie Tibshirani,1,79,3,0,0,6,3,11,0
+Jun Ohtani,57,5365,3398,8,0,2,22,130,41
+jurgc11,1,1,0,0,0,1,2,0,1
+Jürgen Kartnaller,1,1,1,1,0,2,2,2,0
+Justin Etheredge,1,30,6,0,0,0,1,0,1
+Justin Honold,1,1,1,0,0,2,1,2,1
+jzinner,1,4,0,0,0,2,2,0,0
+kakakakakku,2,3,5,0,0,0,2,7,2
+KangYongKyun,1,2,2,0,0,1,1,4,1
+Karel Minarik,162,5253,2139,1,0,13,6,89,9
+Karl Meisterheim,1,3,3,0,0,0,1,1,1
+keety,1,40,1,1,0,2,1,0,0
+Keiji Yoshida,1,1,1,0,0,0,1,2,1
+Kelsey DeJesus-Banos,1,1,1,0,0,0,1,0,1
+Kelsey Francis,1,1,1,0,0,1,1,1,0
+Kendall Gifford,1,1,1,0,0,0,0,0,0
+Kenn Knowles,1,2,2,0,0,1,1,1,0
+Kenta Okamoto,1,1,1,0,0,0,0,0,0
+Kenta Suzuki,3,808,22,0,0,0,0,0,0
+Ken Wu,2,11,3,1,0,0,5,6,0
+Kevin Wang,22,1921,89,2,0,10,54,80,7
+Kevin Adams,1,1,2,0,0,1,1,1,1
+Kevin Kirsche,2,6,2,0,0,2,3,10,1
+Kevin Kluge,3,10,3,1,0,8,2,15,1
+khiraiwa,1,1,1,0,0,0,2,0,1
+Shay Banon,4779,1401534,1064899,408,1251,2138,298,6930,77
+Kis Marcell,1,43,20,0,0,0,2,4,0
+Kiyan,1,1,1,0,0,0,2,0,1
+Konrad Beiske,12,2177,1178,1,0,2,3,13,14
+Konrad Feldmeier,4,130,122,1,0,8,4,11,18
+Konstantin Delchev,1,1,1,0,0,0,1,2,0
+Kopylov German,1,1,1,0,0,0,1,1,1
+Kouhei Sutou,1,1,1,0,0,0,1,1,1
+Krishna Raj,2,4,2,0,0,0,4,0,1
+kul,1,59,11,0,0,9,2,29,0
+Kurt Hurtado,3,94,23,1,0,2,2,1,1
+kwangsik,1,1,1,0,0,0,3,0,1
+Kyle Gochenour,1,1,1,0,0,0,1,2,1
+Lars Francke,3,28,28,0,0,1,4,2,2
+Laurent Broudoux,1,2,0,0,0,0,2,2,1
+LeeDr,1,2,2,0,0,2,1,2,0
+Lee Hinman,390,37980,17416,15,0,86,200,1526,330
+LeonardGC,1,1,1,0,0,1,1,2,1
+Leonardo Menezes,7,135,18,0,0,60,12,220,0
+Leslie Wittig Quintanilla,3,11,1,0,0,0,0,0,0
+LightGuard,1,2,2,0,0,0,1,0,0
+londocr,1,2,2,0,0,0,1,0,0
+loopmachine,1,2,2,0,0,0,1,0,0
+Louis Gueye,1,1,1,0,0,1,1,1,0
+Louis Sautier,1,15,1,0,0,0,1,1,0
+Lucas Chi,1,1,1,0,0,0,1,1,1
+Lukas Vlcek,28,8879,442,4,3,94,32,292,0
+Lukasz Dywicki,1,2,2,1,0,2,3,8,0
+Luke Fender,1,1,1,0,0,0,1,2,1
+lzhoucs,1,1,1,0,0,1,1,0,0
+mahdeto,1,10,0,0,0,2,3,9,1
+Mahendra M,2,8,1,0,1,4,3,8,0
+Mahesh Paolini-Subramanya,2,2,2,0,0,0,2,1,1
+Mahmoud Lababidi,1,21,10,0,0,1,1,7,1
+Mal Curtis,1,1,1,0,0,2,2,11,1
+Malte Schirnacher,2,6,4,0,0,1,4,5,1
+Mansur Ashraf,1,3,0,0,0,0,1,1,0
+Manuel Bernhardt,1,4,0,0,0,0,1,0,0
+Marcin Matlaszek,1,2,2,0,0,0,0,0,0
+Marcin Mikosik,1,1,1,1,0,0,1,1,1
+Marcus Granström,1,83,21,0,0,2,1,22,0
+Mariam Hakobyan,1,1,0,0,0,0,2,3,1
+Mark Elliot,1,1,1,0,0,1,1,1,0
+Mark Gallop,4,8,4,0,0,0,0,0,0
+markharwood,40,12036,2283,10,0,31,42,347,29
+Mark J Greene,1,3,6,0,0,0,1,11,0
+Mark Mulder,1,4,4,0,0,0,1,0,0
+marko asplund,1,8,8,1,0,4,2,8,0
+Markus Fischer,2,10,3,0,0,6,2,9,1
+Mark Walkom,8,121,57,0,0,74,11,160,4
+Marshall Bockrath-Vandegrift,1,23,15,0,0,0,1,0,1
+Martijn Laarman,33,886,946,13,0,66,54,222,21
+Martijn van Groningen,1098,187674,117112,58,0,183,377,1667,831
+Masaru Hasegawa,5,147,20,0,0,13,8,36,5
+matdere,1,7,2,0,0,0,1,0,0
+mateusz_kaczynski,1,85,14,0,0,1,1,7,0
+Mathias Fußenegger,7,140,35,1,0,10,18,50,2
+Matias Tealdi,1,0,0,1,0,0,1,2,3
+matthewarkin,1,1,1,0,0,1,1,1,0
+Matthew L Daniel,2,38,14,0,0,1,3,2,1
+Matthias Wahl,2,72,21,1,0,1,3,4,0
+Matthieu Bacconnier,1,1,1,0,0,0,1,1,1
+Matt Hughes,1,1,0,0,0,5,1,5,1
+Matt Janssen,1,2,2,0,0,0,1,3,1
+matt-preston,1,27,3,0,0,2,2,3,0
+Matt Weber,13,1485,270,0,0,24,17,174,2
+Maurizio De Magnis,1,1,1,0,0,0,1,0,1
+mdalton,1,1,1,0,0,0,1,1,1
+mdzor,2,5,4,0,0,0,2,1,2
+Medcl,1,3,0,0,0,15,1,37,0
+Mehdi Mollaverdi,1,2,2,0,0,0,1,0,1
+melix,2,289,4,0,0,2,1,9,0
+Michael Brackx,1,19,5,0,0,11,1,8,0
+Michael McCandless,359,39400,40282,38,0,225,372,2307,107
+Michael Sander,1,1,1,0,0,2,2,12,0
+Michael Schonfeld,2,2,3,0,0,0,2,8,0
+Michael Stockerl,2,35,23,0,0,0,1,3,2
+Michele Palmia,1,1,1,0,0,6,2,17,1
+Mihnea Dobrescu-Balaur,1,1,0,0,0,0,1,0,1
+Mikael Mattsson,1,3,0,0,0,0,1,0,0
+Mike Buhot,1,6,0,0,0,1,1,1,1
+Mikhail Korobov,2,20,11,1,0,2,2,2,2
+Mikko Nylén,1,3,1,0,0,1,1,0,1
+Miltos Allamanis,2,39,39,0,0,0,1,0,0
+minde-eagleeye,1,1,1,0,0,2,1,2,1
+Miquel Rodríguez Telep / Michael Rodríguez-Torrent,1,3,3,0,0,0,1,3,0
+Mohsin Husen,1,3,0,0,0,1,1,2,0
+Murilo Pereira,2,6,6,0,0,0,1,5,1
+Myll,1,68,63,0,0,0,5,2,10
+mysqlguru,1,1,1,0,0,0,1,0,1
+nandakishore15,1,2,2,0,0,0,1,1,1
+Naoki Orii,1,3,3,0,0,0,2,2,1
+navins,1,3,3,0,0,1,1,4,0
+Nicholas Canzoneri,2,7,7,0,0,0,2,2,0
+Nicholas Knize,85,16793,9028,4,0,90,116,462,135
+Nick,3,6,7,0,0,4,4,20,2
+Nick Steele,1,1,1,0,0,0,1,1,0
+Nicolas Huray,2,456,28,0,0,1,2,11,2
+Nicolas Lalevée,18,264,106,5,1,3,18,8,0
+Nicolas Trésegnie,1,222,2,0,0,0,0,2,0
+Nik Everett,611,79474,70784,22,0,221,368,3118,1789
+Nils Dijk,2,52,8,1,0,4,2,6,0
+Nirmal Chidambaram,3,191,22,0,0,4,9,32,9
+Njal Karevoll,9,59,14,0,0,10,5,24,0
+Ofir,3,2,1,0,0,0,2,0,1
+ohnorobo,1,611,722,0,0,1,1,0,0
+Oleg Anashkin,1,1,1,0,0,1,1,2,1
+Oliver,1,1,1,0,0,0,1,0,0
+Oliver Eilhard,2,5,3,0,0,3,2,8,0
+Olivier Bourgain,10,115,94,3,0,2,18,12,2
+Olivier Favre,6,682,72,0,0,17,10,56,1
+omiend,1,1,1,0,0,1,2,1,1
+Opak Alex,1,3,0,0,0,0,2,4,0
+oyiadom,3,7,1,0,0,0,4,2,1
+Pablo Díaz-López,1,1,1,0,0,0,1,1,1
+pachanta,1,11,2,0,0,0,1,3,0
+Pål Brattberg,1,3,3,0,0,0,1,0,0
+Pascal Borreli,1,30,30,0,0,0,1,0,12
+Patrick Kaufmann,1,1,1,0,0,1,1,1,0
+Patrick Koenig,2,45,32,0,0,0,3,1,0
+Patrick Peschlow,5,532,10,2,0,4,8,10,2
+Patrik Ragnarsson,1,1,1,0,0,0,1,1,1
+Paul Echeverri,6,36,24,2,0,1,12,11,5
+paul-e-cooley,1,63,0,0,0,0,0,0,0
+Paul Horn,1,1,1,0,0,0,1,1,0
+Paulo Martins,1,183,183,0,0,1,5,19,2
+Paul Pearcy,1,1,1,0,0,34,2,73,1
+Pedro Alves,1,11,14,0,0,1,2,1,0
+Pedro Andujar,1,2,2,0,0,0,1,1,0
+pengqiuyuan,1,1,1,0,0,0,1,1,1
+Peter,11,992,69,0,0,14,5,107,1
+Peter Burkholder,1,6,1,0,0,0,0,0,0
+Peter Dyson,4,15,2,0,0,9,5,22,1
+Peter Fabian Mitchell,1,72,1,0,0,0,2,2,1
+Peter Johnson a.k.a. insertcoffee,5,21,19,0,0,8,12,52,4
+Peter Kim,1,2,2,0,0,1,0,1,1
+Peter Lebedev,1,16,0,0,0,3,1,3,0
+Peter Moberg,1,33,16,0,0,0,0,0,0
+Petr Bela,1,1,1,1,0,0,1,0,1
+Petri Lehtinen,1,27,1,0,0,3,1,4,0
+Phil Freo,1,1,1,0,0,0,1,3,1
+Philip McMahon,1,13,2,0,0,1,1,3,0
+Philip Ottesen,1,28,0,0,0,1,1,1,2
+Philipp Bogensberger,2,49,67,0,0,1,3,15,2
+Philipp Jardas,1,1,1,0,0,1,1,4,0
+Philip Wills,2,23,18,0,0,0,2,4,0
+Phil Kates,1,14,10,0,0,0,1,2,0
+Pius,7,12,9,0,0,169,7,128,5
+pmamat,1,4,0,0,0,0,1,2,0
+polyfractal,87,27661,9531,9,0,80,70,366,119
+popovae,1,5,0,0,0,0,1,1,0
+Prayag Verma,1,1,1,0,0,0,1,0,0
+printercu,1,3,0,0,0,2,1,4,0
+qwerty4030,1,1,3,0,0,1,2,1,1
+Rachit Gupta,1,1,1,0,0,0,2,0,1
+Radovan Ondas,1,1,1,0,0,1,1,3,1
+Radu Gheorghe,3,2,8,0,0,6,3,5,0
+Rafał Bigaj,1,1,1,0,0,0,2,0,1
+ramky1982,1,1,1,0,0,0,1,0,0
+Randy D. Wallace Jr,1,1,0,0,0,1,1,1,0
+Randy Stauner,2,10,6,0,0,0,2,1,2
+rdpatil4,1,3,0,0,0,0,1,3,0
+Renaud AUBIN,1,1,1,0,0,0,1,2,0
+rendel,1,1,0,0,0,2,1,9,1
+René Scheibe,1,212,218,0,0,1,1,2,0
+Reuben Sutton,5,90,232,0,2,0,5,17,1
+Rhommel,2,2,0,0,0,0,2,10,2
+Richard Boulton,3,8,8,0,0,5,3,8,2
+Richard Louapre,1,225,7,0,0,2,0,20,0
+Richard Pijnenburg,4,61,7,0,0,9,2,92,1
+Rob Cherry,1,114,34,0,0,2,3,10,0
+Robert,3,6,2,0,0,0,3,0,3
+Robert Muir,1040,145512,137729,87,3,147,311,1643,1266
+Robin Clarke,2,11,1,0,0,8,6,7,1
+Robin Hughes,2,7,2,0,0,2,2,0,0
+Robin Joseph,1,1,1,0,0,0,1,0,1
+Rob Young,1,1,1,0,0,0,1,1,1
+Rodolfo Martinez,1,2,1,0,0,0,1,1,1
+Roland,8,222,25,0,0,2,12,56,9
+Roman Sanchez,1,3,0,0,0,0,2,2,0
+Ron DuPlain,1,1,0,0,0,0,1,0,0
+rphadake,1,2,2,0,0,2,1,5,0
+Ruflin,3,143,64,0,0,2,2,20,0
+Ruslan Boyarskiy,1,1,1,0,0,2,1,2,1
+Russ Cam,2,3,1,0,0,2,4,9,2
+Russell Cohen,1,3,0,0,0,1,1,2,1
+Ryan,2,13,6,0,0,0,1,1,1
+Ryan Doyle,1,3,0,0,0,0,1,2,0
+Ryan Ernst,881,276403,301875,67,0,55,321,1767,2192
+Ryan Grimm,1,2,2,0,0,0,2,1,0
+Ryan S. Brown,1,2,0,0,0,0,0,0,0
+Ryan Schneider,5,33,3,0,0,16,7,51,3
+Sakthipriyan Vairamani,2,2,2,1,0,0,6,2,2
+Stephen Samuel,2,5,5,0,0,0,4,4,1
+Samuel Molinari,1,1,1,0,0,0,1,1,0
+Sarwar Bhuiyan,2,2,3,0,0,1,2,6,0
+saschamarkus,1,14,1,0,0,0,2,2,2
+Satoyuki Tsukano,2,986,74,0,0,0,1,4,0
+Scott Chamberlain,2,7,1,0,0,0,2,4,1
+Scott Florentino,3,11,3,1,0,1,1,8,1
+Scott Kingsley Clark,1,1,1,0,0,0,1,1,1
+Scott MacVicar,1,1,1,0,0,2,1,5,0
+Scott Wilkerson,1,1,1,0,0,0,1,1,1
+Sean Gallagher,5,239,56,3,0,24,5,14,4
+Sean Laurent,1,24,18,0,0,0,1,4,0
+Sebastian Geidies,2,1021,164,0,0,0,3,13,0
+Sebastian Monte,1,31,41,0,0,0,1,2,0
+Sebastian Utz,4,327,319,2,0,1,7,20,2
+Sebastian Ziebell,4,55,31,0,0,0,5,2,1
+Sergii Golubev,9,23,20,3,0,1,12,28,8
+Serhiy Suprun,1,1,1,0,0,0,0,0,0
+shadow000fire,1,3,1,0,0,6,1,7,0
+Shane Connelly,8,123,90,0,0,8,4,58,5
+Shaunak Kashyap,8,69,75,0,0,1,7,13,2
+Shikhar Bhushan,2,4,0,0,0,5,2,38,2
+Shinsuke Sugaya,1,2,0,0,0,2,2,5,1
+Shintaro Kaneko,1,1,1,0,0,0,1,1,1
+shrinidhichaudhari,1,1,1,0,0,0,1,1,0
+Shubham Aggarwal,1,1,1,0,0,0,1,0,1
+simaov,2,17,4,0,0,1,1,0,0
+Simon (Big Chief) Morley,5,280,21,0,0,0,0,0,0
+Simone Scarduzio,1,7,2,0,0,1,1,3,0
+Simon Willison,1,7,0,0,0,3,2,6,1
+Simon Willnauer,2394,1195050,1195165,108,0,186,708,4985,3418
+Skye Book,1,1,1,0,0,0,1,1,0
+skymeyer,1,4,0,0,0,0,1,1,0
+smayzak,4,7,12,0,0,4,2,0,1
+socurites,2,2,2,0,0,1,4,2,2
+soinlv,1,0,1,0,0,0,1,0,0
+Son,1,9,12,0,0,3,3,9,3
+Sourav Mitra,1,2,2,0,0,0,1,2,0
+sp836490,1,2,2,0,0,0,1,1,1
+spalger,22,273,124,3,0,39,15,105,9
+spapin,1,1,1,1,0,2,1,2,1
+srogljan,1,2,2,1,0,0,1,3,2
+Stefan,1,14,14,0,0,0,1,0,1
+Stefan Antoni,1,1,1,1,0,0,1,0,1
+Stefan Fussenegger,1,3,1,1,0,8,2,9,0
+Stefan Scherer,1,44,31,0,0,0,1,13,4
+stephlag,5,9,9,0,0,0,6,5,1
+Steve Kearns,1,5,2,0,0,4,1,7,0
+Subhash Gopalakrishnan,1,20,1,0,0,0,2,0,0
+Suyog Rao,2,3,3,0,0,3,3,2,2
+sweetest,1,57,5,0,0,10,4,15,1
+Sylvain Zimmer,2,6,1,0,0,0,2,6,1
+Sylwester Lachiewicz,2,9,9,0,0,1,2,1,1
+Taehee Kim,1,1,1,0,0,0,1,0,1
+Tal Levy,101,14491,5888,12,0,11,52,128,43
+Tanguy Leroux,123,25088,12222,4,0,32,176,1000,261
+Tanvir Alam,1,1,1,1,0,0,1,1,0
+Thilo Fromm,3,114,18,1,0,2,7,49,0
+Thomas Cucchietti,3,4,4,0,0,1,3,5,1
+Thomas Eschemann,1,5,0,0,0,0,1,0,0
+Thomas Hunter II,1,1,1,0,0,0,1,1,1
+Thomas Peuss,1,56,5,0,0,0,2,6,0
+Thom Dixon,1,1,1,0,0,0,1,1,0
+Tiago Alves Macambira,2,3,4,0,0,1,3,2,1
+Tim Dysinger,2,29,29,0,0,0,0,0,0
+Timo Rantalaiho,1,13,0,0,0,1,2,5,0
+Timothy Perisho,1,5,5,0,0,0,0,0,0
+Tim Schlechter,2,1,4,0,0,1,3,5,1
+Timur,1,1,1,1,0,0,1,1,1
+Todd Dicken,1,1,1,0,0,0,1,0,1
+Tomas Varaneckas,1,2,2,0,0,0,1,0,0
+Tomoya Hirano,1,2,2,0,0,0,1,0,1
+tomoya yokota,1,2,2,0,0,0,3,1,1
+trangvh,1,2,2,0,0,0,2,1,2
+tristanbob,2,7,0,0,0,0,2,2,1
+tristanbuckner,1,47,40,0,0,0,1,0,0
+tstibbs,1,9,9,1,0,15,1,12,0
+Tyler Langlois,2,3,1,0,0,0,1,1,1
+uboness,99,184290,10602,20,0,20,46,376,48
+ulkas,1,1,1,0,0,0,1,4,1
+Ulrich Reffle,1,1,1,0,0,0,1,1,0
+umeku,1,4,4,0,0,0,1,0,1
+unknown,2,31,1,0,0,0,0,0,0
+Uwe Dauernheim,1,1,1,0,0,0,2,2,0
+Uwe Schindler,49,2326,2054,4,0,7,23,276,62
+val,1,1,1,0,0,4,1,26,1
+Valdis Rigdon,1,1,2,0,0,1,1,2,0
+Vector241-Eric,1,1,1,0,0,0,1,0,1
+Veres Lajos,1,89,89,1,0,0,1,1,2
+Victor Buldakov,1,5,1,0,0,0,2,3,0
+Vidar Kongsli,1,3,3,0,0,0,1,1,0
+Vinod Chandru,1,2,0,0,0,0,0,0,0
+violuke,3,3,3,0,0,0,3,1,1
+Vishnu Valleru,1,1,1,0,0,2,1,0,1
+Vojtech Hyza,1,55,36,0,0,2,1,8,0
+Volker Fröhlich,1,1,1,0,0,0,1,1,1
+Wilkes Joiner,1,102,6,0,0,0,0,0,0
+William,1,1,1,0,0,0,1,0,1
+William Bowling,2,160,62,0,0,0,2,2,3
+William Li,1,2,2,0,0,0,1,2,1
+William Webber,1,1,1,0,0,1,1,1,1
+wittyameta,2,5,1,0,0,0,4,1,1
+wmx3ng,1,2,1,0,0,0,1,0,1
+Wolfgang Karall,1,4,1,0,0,0,1,1,0
+Xavier Coulon,1,1,1,0,0,0,1,2,1
+Xiao Yu,3,104,32,0,0,2,2,3,1
+Xu Zhang,43,2760,877,1,0,10,66,258,94
+Yanjun Huang,1,48,2,0,0,2,5,17,5
+Yannick Welsch,176,17409,10967,34,0,20,85,311,418
+Yasir Bamarni,1,1,1,0,0,0,1,0,1
+Yervand Aghababyan,1,2,3,0,0,2,1,6,0
+Yousef,2,2,2,0,0,1,2,1,2
+Yuhao Bi,1,1,1,0,0,0,1,0,1
+Zachary Wasserman,1,3,3,0,0,0,1,1,1
+Zack Dever,1,1,1,0,0,0,1,0,1
+larrytin,3,0,0,0,0,1,1,0,0
